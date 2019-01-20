@@ -35,4 +35,4 @@ print(yueyue.name)
 print(yueyue.age)
 # 注意成员函数的调用没有传递参数
 yueyue.doHomework()
-
+yueyue
